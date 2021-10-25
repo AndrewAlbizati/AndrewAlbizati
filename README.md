@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! My name is Andrew Albizati and I am a high school senior interested in software development and computer science.
+## Languages
+- Java
+- Python
 
-<!--
-**AndrewAlbizati/AndrewAlbizati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Computer science
+- Discord bots
+- Minecraft plugins
+- Raspberry Pi
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+- Email: andrew.albizati@gmail.com
