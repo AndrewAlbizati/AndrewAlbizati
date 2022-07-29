@@ -4,6 +4,7 @@
 - Java
 - Python
 - Dart/Flutter
+- C#/Unity
 
 ## Interests
 - Discord bots
