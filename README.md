@@ -14,3 +14,4 @@
 
 ## Contact Information
 - Email: andrew.albizati@gmail.com
+- LinkedIn: www.linkedin.com/in/andrew-albizati
