@@ -12,16 +12,19 @@
 - Raspberry Pi
 
 ## Courses
-- Freshman Year
-    - **COMP-120**: Programming Abstractions and Methodologies
-    - **COMP-110**: Computational Problem Solving
-    - **MATH-262**: Discrete Mathematics
-    - **MATH-151**: Calculus II
-    - **MATH-150**: Calculus I
-- High School
+- Computer Science
     - **APCSA**: AP Computer Science A
     - **APCSP**: AP Computer Science Principles
-
+    - **COMP-110**: Computational Problem Solving
+    - **COMP-120**: Programming Abstractions and Methodologies
+    - **COMP-230**: Advanced Computational Problem Modeling
+    - **COMP-280**: Introduction to Computer Systems
+    - **COMP-305**: Objected Oriented Design and Programming
+- Mathematics
+    - **MATH-262**: Discrete Mathematics
+    - **MATH-250**: Calculus III
+    - **MATH-151**: Calculus II
+    - **MATH-150**: Calculus I
 
 ## Contact Information
 - Email: andrew.albizati@gmail.com
