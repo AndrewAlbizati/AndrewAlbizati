@@ -22,6 +22,8 @@
     - **COMP-305**: Objected Oriented Design and Programming
 - Mathematics
     - **MATH-262**: Discrete Mathematics
+    - **MATH-320**: Linear Algebra
+    - **MATH-355**: Combinatorics
     - **MATH-250**: Calculus III
     - **MATH-151**: Calculus II
     - **MATH-150**: Calculus I
