@@ -1,4 +1,4 @@
-### Hello! 👋  My name is Andrew Albizati and I am a rising senior at the University of San Diego majoring in computer science and mathematics. I'm interested in software development, artificial intelligence, and algorithmic design.
+### Hello! 👋  My name is Andrew Albizati and I am a 4th year student at the University of San Diego majoring in computer science and mathematics. I'm interested in software development, artificial intelligence, and algorithmic design.
 
 ## Languages
 Python, Java, C/C++, C#, SQL, JavaScript, HTML/CSS
