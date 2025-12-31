@@ -20,3 +20,4 @@ Algorithms • AI/ML • Systems programming • Sports analytics • Mathematic
 - **Email:** andrew.albizati@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/andrew-albizati
 - **Website:** https://andrewalbizati.github.io
+- **Resume:** [here](./resume.pdf)
